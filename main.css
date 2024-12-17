@@ -1,0 +1,45 @@
+.ota{
+    background-color: #2A5D5A;
+    width: 1440px;
+    height: 1024px;
+    margin: 0 auto;
+    }
+    .div{
+        color: white;
+        width: 636px;
+        
+        background-color: #311313;
+        font-size: 64px;
+        padding-top: 46px;
+        padding-bottom: 46px;
+       text-align: center;
+       
+        margin: 0 auto;
+    }
+    
+    .div1{
+        width: 1000px;
+        height: 636px;
+       background-color: black;
+       border: solid 10px  red;
+       margin: 0 auto;
+       padding-right: 104px;
+       padding-left: 104px;
+    }
+    
+    .dbola{
+        width: 896px;
+        height: 259px;
+        background-color: aqua;
+        margin-top: 30px;
+       
+        
+    }
+    
+    .p{
+        font-size: 24px;
+        width: 817px;
+        height: 151px;
+       padding-top: 54px;
+       margin-left: 40px;
+    }
